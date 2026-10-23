@@ -1,0 +1,11 @@
+{
+  "name": "genpark-autonomous-agent-sla-cost-budget-governor-skill",
+  "version": "1.0.0",
+  "description": "Monitors accumulated token spending and latency to dynamically throttle execution and downgrade models under SLA limits",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
